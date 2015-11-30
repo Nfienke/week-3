@@ -9,11 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    //var
     @IBOutlet weak var tekstfield1: UITextField!
     @IBOutlet weak var tekstfield2: UITextField!
     @IBOutlet weak var job: UILabel!
     @IBOutlet weak var adj: UILabel!
+    
     
     @IBOutlet weak var colour: UISegmentedControl!
     let myDefaults = NSUserDefaults.standardUserDefaults()

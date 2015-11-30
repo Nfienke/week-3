@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    //var
+    
     @IBOutlet weak var tekstfield1: UITextField!
     @IBOutlet weak var tekstfield2: UITextField!
     @IBOutlet weak var job: UILabel!
